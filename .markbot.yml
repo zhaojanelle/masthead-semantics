@@ -10,6 +10,24 @@ html:
     valid: true
     bestPractices: true
     has:
-      - ""
+      - "header"
+      - "header img"
+      - "header h1"
+      - "header nav"
+      - "header nav ul"
+      - "header nav ul li"
+      - "header nav ul li a"
+      - "figure"
+      - "figure img"
+      - "figure figcaption"
+      - "main"
+      - "main p"
     search:
-      - ""
+      - "The Solar System"
+      - "Stars"
+      - "Terrestrial planets"
+      - "Gas giants"
+      - "Dwarf planets"
+      - "Asteroids"
+      - "Comets"
+      - "gravitationally"
