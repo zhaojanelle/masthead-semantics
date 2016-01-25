@@ -1,0 +1,18 @@
+{logo}
+The Solar System
+
+[Stars]
+[Terrestrial planets]
+[Gas giants]
+[Dwarf planets]
+[Asteroids]
+[Comets]
+
+---
+
+{banner}
+The Solar System—our home in the stars
+
+---
+
+The Solar System is the gravitationally bound system comprising the Sun and the planetary system that orbits it.
