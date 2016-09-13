@@ -1,14 +1,20 @@
 repo: "masthead-semantics"
-canvasCourse: "467502"
-canvasAssignment: "4178288"
+canvasCourse: "web-dev-1"
 
 naming: true
-commits: 3
+restrictFileTypes: true
+liveWebsite: true
+
+git:
+  numCommits: 3
+  allCommitted: true
+  allSynced: true
 
 html:
   - path: "index.html"
     valid: true
     bestPractices: true
+    outline: true
     has:
       - "header"
       - "header img"
