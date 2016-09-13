@@ -1,11 +1,12 @@
-# Masthead semantics
-
-- Approx. completion time: **1 hour**
-- Deliverables: **1 HTML file, images**
-
+---
+summary: 'Write out the semantically correct HTML elements for the masthead, navigation & banner of a website.'
+time: '1 hour'
+deliverables: '1 HTML file, images'
 ---
 
-**Write out the semantically correct HTML elements for the masthead, navigation & banner of a website.**
+# Masthead semantics
+
+## Overview
 
 - *Fork this repository.*
 - All the content is provided in the `content.txt` file.
